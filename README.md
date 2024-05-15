@@ -1,4 +1,4 @@
-# /NewsPaper-API\
+# NewsPaper-API
 ![image](https://user-images.githubusercontent.com/97007392/213326334-ea411089-8e8c-45c6-a656-9650fedc2bc0.png)
 ## A API system created with FastAPI.
 # <br> How the system works?
